@@ -198,7 +198,7 @@ echo      sequences:
 echo      Computer Config=^>Admin Templates=^>System=^>Logon
 echo      Computer Config=^>Windows Settings=^>Scripts ^(Startup/Shutdown^) 
 :: yeah, went out of ui, deal with it
-echo       |^(Only for Windows Pro/Enterprise^)
+echo       ^(Only for Windows Pro/Enterprise^)
 echo       --------------------------------
 echo      1.-Group Policy Editor
 echo      0.-Back to Menu
