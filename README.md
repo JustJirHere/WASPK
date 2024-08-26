@@ -10,7 +10,7 @@ Search quickly and efficiently through the most common places where start up pro
 
 *Two taps, One file, zero problems.*
 
-Simple batch file with a small UI, easy to understand for begginers, useful to use for advanced
+Simple batch file with a small UI, easy to understand for begginers, useful to use for advanced users
 
 > [!TIP]
 > Every Tab comes with a resumed explanation of what you can find in it and what you can do with it
